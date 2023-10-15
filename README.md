@@ -11,15 +11,36 @@
 Bird Haven is the perfect companion for bird enthusiasts. With its smart technology, this bird watching app helps you easily identify the birds you encounter. It also lets you maintain a diary of your bird sightings. You can explore a treasure trove of bird observations and discover the best bird-watching spots. Customization is a breeze, allowing you to set distance measurements and system preferences to suit your needs. Moreover, it assists you in finding the quickest routes to hotspots, ensuring you never miss an exciting bird sighting. What's more, you have the flexibility to edit or remove your bird observations whenever you like. Bird Haven simplifies and enhances the joy of bird watching.
 
 ## 📱 User Interface
-Home / explore /sightings / observations /settings 
-![Screenshot_20231015_230101](https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/28077d4b-5e9c-4afd-aeaf-a027d4b1d8ea)
-![Screenshot_20231015_230145](https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/77eeb243-25fc-41ff-b260-24f78c110b98)
-![Screenshot_20231015_230201](https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/af341186-f5d5-44f4-be94-80a55790eaa5)
-![Screenshot_20231015_230215](https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/b36887c4-8d08-44fd-aed3-f7521f332ad5)
-![Screenshot_20231015_230224](https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/084c20f7-2843-46ab-8a9a-12b635b5eaa4)
-![Screenshot_20231015_230335](https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/612cd252-c44f-4880-885f-99cde3ad1a0c)
-![Screenshot_20231015_230128](https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/53c6ad54-542f-4bcf-9107-ff97c186a429)
-
+ <div class="container">
+        <div class="image">
+            <img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/28077d4b-5e9c-4afd-aeaf-a027d4b1d8ea" alt="Screenshot 1">
+            <p>Screenshot Title 1</p>
+        </div>
+        <div class="image">
+            <img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/77eeb243-25fc-41ff-b260-24f78c110b98" alt="Screenshot 2">
+            <p>Screenshot Title 2</p>
+        </div>
+        <div class="image">
+            <img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/af341186-f5d5-44f4-be94-80a55790eaa5" alt="Screenshot 3">
+            <p>Screenshot Title 3</p>
+        </div>
+        <div class="image">
+            <img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/b36887c4-8d08-44fd-aed3-f7521f332ad5" alt="Screenshot 4">
+            <p>Screenshot Title 4</p>
+        </div>
+        <div class="image">
+            <img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/084c20f7-2843-46ab-8a9a-12b635b5eaa4" alt="Screenshot 5">
+            <p>Screenshot Title 5</p>
+        </div>
+       <div class="image">
+            <img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/612cd252-c44f-4880-885f-99cde3ad1a0c" alt="Screenshot 6">
+            <p>Screenshot Title 6</p>
+        </div>
+       <div class="image">
+            <img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/53c6ad54-542f-4bcf-9107-ff97c186a429" alt="Screenshot 7">
+            <p>Screenshot Title 7</p>
+        </div>  
+    </div>
 
 ## 📖 How to run the Mobile Application
 When you open the application, you will be greeted by a splash screen featuring the Bird Haven logo. From there, you'll be directed to the main page, where you have the option to either create a new account if you don't have one already or sign in with your existing account.
