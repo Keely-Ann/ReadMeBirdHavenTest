@@ -1,10 +1,6 @@
-<span style="display: flex;justify-content: center;align-items: center;">👋 Welcome to Bird Haven's Mobile Application Profile!
+<p align="center">👋 Welcome to Bird Haven's Mobile Application Profile!</p>p>
 
-![1](https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/ef040045-ceb6-42fe-b954-819278c7cdfd)
-
-<p align="center">
-  <img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/ef040045-ceb6-42fe-b954-819278c7cdfd" alt="Image">
-</p>
+<p align="center"><img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/ef040045-ceb6-42fe-b954-819278c7cdfd" alt="Image"></p>
 
 ## Team Members 
 * [Nikita Davids](https://github.com/Nikita-Davids/)
