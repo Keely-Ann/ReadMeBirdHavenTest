@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/ef040045-ceb6-42fe-b954-819278c7cdfd" alt="Image"></p>
 
-## Team Members 
+## 👥 Team Members 
 * [Nikita Davids](https://github.com/Nikita-Davids/)
 * [Keely-Ann Maritz](https://github.com/Keely-Ann/)
 * [Roberto Booysen](https://github.com/RobertoBooysen/)
@@ -10,10 +10,10 @@
 ## Mobile Application Purpose
 Bird Haven is the perfect companion for bird enthusiasts. With its smart technology, this bird watching app helps you easily identify the birds you encounter. It also lets you maintain a diary of your bird sightings. You can explore a treasure trove of bird observations and discover the best bird-watching spots. Customization is a breeze, allowing you to set distance measurements and system preferences to suit your needs. Moreover, it assists you in finding the quickest routes to hotspots, ensuring you never miss an exciting bird sighting. What's more, you have the flexibility to edit or remove your bird observations whenever you like. Bird Haven simplifies and enhances the joy of bird watching.
 
-## User Interfaces
+## 📱 User Interface
+Home / explore /sightings / observations /settings 
 
-
-## 📖 How to run the Mobile Application
+## 🖥️ How to run the Mobile Application
 When you open the application, you will be greeted by a splash screen featuring the Bird Haven logo. From there, you'll be directed to the main page, where you have the option to either create a new account if you don't have one already or sign in with your existing account.
 
 If you choose to create an account, you will be prompted to enter a username and password. Afterward, you can select the "Create Account" button, which will take you to the sign-in page for the Bird Haven mobile application. To return to the main page, simply select the "Back" button.
@@ -37,7 +37,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Firebase][(console.firebase.google.com]][(Firebase-url)
 
 
-## 🤝 Contact Us
+## 📧 Contact Us
 Feel free to contact any of the following developers for improvements:
 * [ST10085223@vcconnect.edu.za](mailto:ST10085223@vcconnect.edu.za)
 * [ST10085428@vcconnect.edu.za](mailto:ST10085428@vcconnect.edu.za)
