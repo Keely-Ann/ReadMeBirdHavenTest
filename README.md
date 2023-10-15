@@ -38,7 +38,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Firebase][(console.firebase.google.com]][(Firebase-url)
 
 ## Download Mobile Application 
-* [Bird Haven Mobile Application]()
+[Bird Haven Mobile Application]()
 
 ## 📧 Contact Us
 Feel free to contact any of the following developers for improvements:
