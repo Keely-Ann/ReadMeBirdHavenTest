@@ -35,6 +35,7 @@ By clicking the "Settings" icon in the bottom navigation bar, you'll be directed
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [![Kotlin][kotlinlang.org/]][Kotlin-url]
 * [![Firebase][(console.firebase.google.com]][(Firebase-url)
+* [![Next][Next.js]][Next-url]
 
 
 ## 🤝 Contact Us
