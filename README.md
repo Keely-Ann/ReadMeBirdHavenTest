@@ -1,6 +1,10 @@
 <span style="display: flex;justify-content: center;align-items: center;">👋 Welcome to Bird Haven's Mobile Application Profile!
 
-<span style="display: flex;justify-content: center;align-items: center;">![1](https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/ef040045-ceb6-42fe-b954-819278c7cdfd)
+![1](https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/ef040045-ceb6-42fe-b954-819278c7cdfd)
+
+<p align="center">
+  <img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/ef040045-ceb6-42fe-b954-819278c7cdfd" alt="Image">
+</p>
 
 ## Team Members 
 * [Nikita Davids](https://github.com/Nikita-Davids/)
@@ -35,7 +39,6 @@ By clicking the "Settings" icon in the bottom navigation bar, you'll be directed
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [![Kotlin][kotlinlang.org/]][Kotlin-url]
 * [![Firebase][(console.firebase.google.com]][(Firebase-url)
-* [![Next][Next.js]][Next-url]
 
 
 ## 🤝 Contact Us
