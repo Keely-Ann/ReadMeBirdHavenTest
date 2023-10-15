@@ -12,6 +12,14 @@ Bird Haven is the perfect companion for bird enthusiasts. With its smart technol
 
 ## 📱 User Interface
 Home / explore /sightings / observations /settings 
+![Screenshot_20231015_230101](https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/28077d4b-5e9c-4afd-aeaf-a027d4b1d8ea)
+![Screenshot_20231015_230145](https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/77eeb243-25fc-41ff-b260-24f78c110b98)
+![Screenshot_20231015_230201](https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/af341186-f5d5-44f4-be94-80a55790eaa5)
+![Screenshot_20231015_230215](https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/b36887c4-8d08-44fd-aed3-f7521f332ad5)
+![Screenshot_20231015_230224](https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/084c20f7-2843-46ab-8a9a-12b635b5eaa4)
+![Screenshot_20231015_230335](https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/612cd252-c44f-4880-885f-99cde3ad1a0c)
+![Screenshot_20231015_230128](https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/53c6ad54-542f-4bcf-9107-ff97c186a429)
+
 
 ## 📖 How to run the Mobile Application
 When you open the application, you will be greeted by a splash screen featuring the Bird Haven logo. From there, you'll be directed to the main page, where you have the option to either create a new account if you don't have one already or sign in with your existing account.
