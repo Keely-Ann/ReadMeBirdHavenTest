@@ -1,6 +1,6 @@
-👋 Welcome to Bird Haven's Mobile Application Profile!
+<span style="display: flex;justify-content: center;align-items: center;">👋 Welcome to Bird Haven's Mobile Application Profile!
 
-![1](https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/ef040045-ceb6-42fe-b954-819278c7cdfd)
+<span style="display: flex;justify-content: center;align-items: center;">![1](https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/ef040045-ceb6-42fe-b954-819278c7cdfd)
 
 ## Team Members 
 * [Nikita Davids](https://github.com/Nikita-Davids/)
@@ -11,9 +11,9 @@
 Bird Haven is the perfect companion for bird enthusiasts. With its smart technology, this bird watching app helps you easily identify the birds you encounter. It also lets you maintain a diary of your bird sightings. You can explore a treasure trove of bird observations and discover the best bird-watching spots. Customization is a breeze, allowing you to set distance measurements and system preferences to suit your needs. Moreover, it assists you in finding the quickest routes to hotspots, ensuring you never miss an exciting bird sighting. What's more, you have the flexibility to edit or remove your bird observations whenever you like. Bird Haven simplifies and enhances the joy of bird watching.
 
 ## 📖 How to run the Mobile Application
-When you open the application, you will be greeted by a **splash screen** featuring the Bird Haven logo. From there, you'll be directed to the main page, where you have the option to either create a new account if you don't have one already or sign in with your existing account.
+When you open the application, you will be greeted by a splash screen featuring the Bird Haven logo. From there, you'll be directed to the main page, where you have the option to either create a new account if you don't have one already or sign in with your existing account.
 
-If you choose to create an account, you will be prompted to enter a username and password. Afterward, you can select the "Create Account" button, which will take you to the **sign-in** page for the Bird Haven mobile application. To return to the main page, simply select the "Back" button.
+If you choose to create an account, you will be prompted to enter a username and password. Afterward, you can select the "Create Account" button, which will take you to the sign-in page for the Bird Haven mobile application. To return to the main page, simply select the "Back" button.
 
 If you opt to sign in with your account, you'll need to enter your username and password. You can also choose to save your login information for easier future access by selecting the "Remember Me" checkbox. After entering your details, click the "Sign In" button to access the home page. To return to the main page, use the "Back" button.
 
