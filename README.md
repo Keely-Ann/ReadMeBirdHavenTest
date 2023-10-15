@@ -10,6 +10,9 @@
 ## Mobile Application Purpose
 Bird Haven is the perfect companion for bird enthusiasts. With its smart technology, this bird watching app helps you easily identify the birds you encounter. It also lets you maintain a diary of your bird sightings. You can explore a treasure trove of bird observations and discover the best bird-watching spots. Customization is a breeze, allowing you to set distance measurements and system preferences to suit your needs. Moreover, it assists you in finding the quickest routes to hotspots, ensuring you never miss an exciting bird sighting. What's more, you have the flexibility to edit or remove your bird observations whenever you like. Bird Haven simplifies and enhances the joy of bird watching.
 
+## User Interfaces
+
+
 ## 📖 How to run the Mobile Application
 When you open the application, you will be greeted by a splash screen featuring the Bird Haven logo. From there, you'll be directed to the main page, where you have the option to either create a new account if you don't have one already or sign in with your existing account.
 
@@ -28,7 +31,13 @@ If you select the "Observation" icon in the bottom navigation, you'll be directe
 
 By clicking the "Settings" icon in the bottom navigation bar, you'll be directed to the Settings page. Here, you can edit your profile, choose a measurement system (imperial or metric), and set your preferred maximum distance (from 10 to 100 units). The default settings are the metric system (miles) with a preferred maximum distance of 10 units. If you want to edit your profile and change your password, a pop-up will allow you to do so. Once you've made changes, select "Edit" to save them. The system settings allow you to choose your preferred measurement system and distance. To log out of the Bird Haven application, click the "Log Out" button, which will redirect you to the main page.
 
-## 🤝 Let's Connect
+## Developed Utilizing
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+* [![Kotlin][kotlinlang.org/]][Kotlin-url]
+* [![Firebase][(console.firebase.google.com]][(Firebase-url)
+
+
+## 🤝 Contact Us
 Feel free to contact any of the following developers for improvements:
 * [ST10085223@vcconnect.edu.za](mailto:ST10085223@vcconnect.edu.za)
 * [ST10085428@vcconnect.edu.za](mailto:ST10085428@vcconnect.edu.za)
