@@ -40,7 +40,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 ## Download Mobile Application 
 [Bird Haven Mobile Application]()
 
-## GitHub Project Link
+## <i class="fab fa-github"></i>GitHub Project Link
 
 
 ## 📧 Contact Us
