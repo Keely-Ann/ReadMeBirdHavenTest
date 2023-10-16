@@ -32,13 +32,16 @@ If you select the "Observation" icon in the bottom navigation, you'll be directe
 By clicking the "Settings" icon in the bottom navigation bar, you'll be directed to the Settings page. Here, you can edit your profile, choose a measurement system (imperial or metric), and set your preferred maximum distance (from 10 to 100 units). The default settings are the metric system (miles) with a preferred maximum distance of 10 units. If you want to edit your profile and change your password, a pop-up will allow you to do so. Once you've made changes, select "Edit" to save them. The system settings allow you to choose your preferred measurement system and distance. To log out of the Bird Haven application, click the "Log Out" button, which will redirect you to the main page.
 
 
-## 🖥️ Developed Utilizing
+## 🖥️ <i class="fas fa-download"></i>Developed Utilizing
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [![Kotlin][kotlinlang.org/]][Kotlin-url]
 * [![Firebase][(console.firebase.google.com]][(Firebase-url)
 
 ## Download Mobile Application 
 [Bird Haven Mobile Application]()
+
+## GitHub Project Link
+
 
 ## 📧 Contact Us
 Feel free to contact any of the following developers for improvements:
