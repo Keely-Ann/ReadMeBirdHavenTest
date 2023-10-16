@@ -11,32 +11,7 @@
 Bird Haven is the perfect companion for bird enthusiasts. With its smart technology, this bird watching app helps you easily identify the birds you encounter. It also lets you maintain a diary of your bird sightings. You can explore a treasure trove of bird observations and discover the best bird-watching spots. Customization is a breeze, allowing you to set distance measurements and system preferences to suit your needs. Moreover, it assists you in finding the quickest routes to hotspots, ensuring you never miss an exciting bird sighting. What's more, you have the flexibility to edit or remove your bird observations whenever you like. Bird Haven simplifies and enhances the joy of bird watching.
 
 ## 📱 User Interface
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 20px;" class="container">
-    <div style="text-align: center; max-width: 100%; height: auto; max-height: 20px;" class="image">
-            <img style="text-align:centre;max-width:100%;height:auto;max-height:20px" src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/28077d4b-5e9c-4afd-aeaf-a027d4b1d8ea" alt="Screenshot 1">
-            <p>Home Page</p>
-        </div>
-       <div style="text-align: center; max-width: 100%; height: auto; max-height: 20px;" class="image">
-            <img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/77eeb243-25fc-41ff-b260-24f78c110b98" alt="Screenshot 2">
-            <p>Hotspots Page</p>
-        </div>
-        <div style="text-align: center; max-width: 100%; height: auto; max-height: 20px;" class="image">
-            <img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/b36887c4-8d08-44fd-aed3-f7521f332ad5" alt="Screenshot 4">
-            <p>Best Route Page</p>
-        </div>
-        <div style="text-align: center; max-width: 100%; height: auto; max-height: 20px;" class="image">
-            <img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/084c20f7-2843-46ab-8a9a-12b635b5eaa4" alt="Screenshot 5">
-            <p>Sightings Page</p>
-        </div>
-       <div style="text-align: center; max-width: 100%; height: auto; max-height: 20px;" class="image">
-            <img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/612cd252-c44f-4880-885f-99cde3ad1a0c" alt="Screenshot 6">
-            <p>Observations Page</p>
-        </div>
-       <div style="text-align: center; max-width: 100%; height: auto; max-height: 20px;" class="image">
-            <img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/53c6ad54-542f-4bcf-9107-ff97c186a429" alt="Screenshot 7">
-            <p>Settings Page</p>
-        </div>  
-    </div>
+![screenshot](https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/5aa84c2f-9076-4867-ad63-ddf99275f152)
 
 ## 📖 How to run the Mobile Application
 When you open the application, you will be greeted by a splash screen featuring the Bird Haven logo. From there, you'll be directed to the main page, where you have the option to either create a new account if you don't have one already or sign in with your existing account.
