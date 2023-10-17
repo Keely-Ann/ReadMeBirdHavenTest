@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to Bird Haven's Mobile Application Profile!</h1>
+![screenshot1](https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/a2a81304-ac55-474f-a629-560c8e216386)<h1 align="center">👋 Welcome to Bird Haven's Mobile Application Profile!</h1>
 
 <p align="center"><img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/ef040045-ceb6-42fe-b954-819278c7cdfd" alt="Image"></p>
 
@@ -11,7 +11,9 @@
 Bird Haven is the perfect companion for bird enthusiasts. With its smart technology, this bird watching app helps you easily identify the birds you encounter. It also lets you maintain a diary of your bird sightings. You can explore a treasure trove of bird observations and discover the best bird-watching spots. Customization is a breeze, allowing you to set distance measurements and system preferences to suit your needs. Moreover, it assists you in finding the quickest routes to hotspots, ensuring you never miss an exciting bird sighting. What's more, you have the flexibility to edit or remove your bird observations whenever you like. Bird Haven simplifies and enhances the joy of bird watching.
 
 ## 📱 User Interface
-<p align="center"><img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/5aa84c2f-9076-4867-ad63-ddf99275f152" alt="Image"></p>
+<p align="center"><img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/2e378996-4fcc-4ec9-ac1b-139a17ea5438" alt="Image"></p>
+<p align="center"><img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/088bd09b-2ffd-4468-aeac-f9dcb2a775c8" alt="Image"></p>
+<p align="center"><img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/dab7b734-377a-4083-8c64-9254caed2984" alt="Image"></p>
 
 ## 📖 How to run the Mobile Application
 When you open the application, you will be greeted by a splash screen featuring the Bird Haven logo. From there, you'll be directed to the main page, where you have the option to either create a new account if you don't have one already or sign in with your existing account.
