@@ -12,8 +12,8 @@ Bird Haven is the perfect companion for bird enthusiasts. With its smart technol
 
 ## 📱 User Interface
 <p align="center"><img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/2e378996-4fcc-4ec9-ac1b-139a17ea5438" alt="Image"></p>
-<p align="center"><img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/088bd09b-2ffd-4468-aeac-f9dcb2a775c8" alt="Image"></p>
-<p align="center"><img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/dab7b734-377a-4083-8c64-9254caed2984" alt="Image"></p>
+<p align="center"><img src="[https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/088bd09b-2ffd-4468-aeac-f9dcb2a775c8](https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/073363dd-2d3b-4845-af2e-59357b40fc10)" alt="Image"></p>
+<p align="center"><img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/d7c31662-ea9d-40af-940f-06e1c5d593a6" alt="Image"></p>
 
 ## 📖 How to run the Mobile Application
 When you open the application, you will be greeted by a splash screen featuring the Bird Haven logo. From there, you'll be directed to the main page, where you have the option to either create a new account if you don't have one already or sign in with your existing account.
