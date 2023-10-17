@@ -1,4 +1,4 @@
-![screenshot1](https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/a2a81304-ac55-474f-a629-560c8e216386)<h1 align="center">👋 Welcome to Bird Haven's Mobile Application Profile!</h1>
+<h1 align="center">👋 Welcome to Bird Haven's Mobile Application Profile!</h1>
 
 <p align="center"><img src="https://github.com/Keely-Ann/ReadMeBirdHavenTest/assets/101563674/ef040045-ceb6-42fe-b954-819278c7cdfd" alt="Image"></p>
 
